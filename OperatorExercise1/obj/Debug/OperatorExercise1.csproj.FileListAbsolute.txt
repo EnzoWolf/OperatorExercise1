@@ -1,0 +1,7 @@
+E:\repos\OperatorExercise1\OperatorExercise1\bin\Debug\OperatorExercise1.exe.config
+E:\repos\OperatorExercise1\OperatorExercise1\bin\Debug\OperatorExercise1.exe
+E:\repos\OperatorExercise1\OperatorExercise1\bin\Debug\OperatorExercise1.pdb
+E:\repos\OperatorExercise1\OperatorExercise1\obj\Debug\OperatorExercise1.csproj.AssemblyReference.cache
+E:\repos\OperatorExercise1\OperatorExercise1\obj\Debug\OperatorExercise1.csproj.CoreCompileInputs.cache
+E:\repos\OperatorExercise1\OperatorExercise1\obj\Debug\OperatorExercise1.exe
+E:\repos\OperatorExercise1\OperatorExercise1\obj\Debug\OperatorExercise1.pdb
